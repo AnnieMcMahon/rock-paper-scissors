@@ -57,7 +57,7 @@ const game = userChoice => {
       break;
     case 'sr':
     case 'rp':
-    case 'sp':
+    case 'ps':
       lose(userChoice, computerChoice);
       break;
     case 'ss':
